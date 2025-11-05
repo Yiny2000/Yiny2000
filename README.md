@@ -2,7 +2,7 @@
 
 ### Software Engineering | Artificial Intelligence | Quality Assurance | Statistical Modelling
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yiny2000&label=Profile views&color=0e75b6&style=flat" alt="Yiny2000" /> </p>
+![](https://komarev.com/ghpvc/?username=Yiny2000&color=lightgrey&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
